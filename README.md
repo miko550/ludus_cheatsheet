@@ -30,4 +30,4 @@ ludus version
 |`LUDUS\domainuser`|`password`| Windows
 |`LUDUS\domainadmin`|`password`| Windows (Domain Admin)
 |`debian`|`debian`|Deian based boxes|
-|`localuser'|`password`|Other|
+|`localuser`|`password`|Other|
