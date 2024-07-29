@@ -1,7 +1,6 @@
 # ludus_cheatsheet
 cheatsheat for ludus command
 
-
 ## updating
 ### Server
 ```
@@ -17,3 +16,17 @@ sudo cp ludus-client_linux-amd64-v.1.4.5 /usr/local/bin/ludus
 sudo chmod +x /usr/local/bin/ludus
 ludus version
 ```
+
+## Range 
+```
+
+## Default Machine Credentials
+|Username|Password|Machine|
+|--------|--------|-------|
+|`kali`|`kali`| Kali (OS)|
+|`kali`|`password`|Kali (KasmVNC - port 8444)|
+|`localuser`|`password`|Windows (local Administrator)
+|`LUDUS\domainuser`|`password`| Windows
+|`LUDUS\domainadmin`|`password`| Windows (Domain Admin)
+|`debian`|`debian`|Deian based boxes|
+|`localuser'|`password`|Other|
